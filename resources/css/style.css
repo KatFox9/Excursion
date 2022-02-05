@@ -20,7 +20,7 @@ header {
     font-size: 16px;
 }
 
-h1 {
+.heading {
     font-family: verdana;
     font-weight: 300px;
     font-size: 42px;
@@ -30,5 +30,16 @@ h1 {
 .interest {
     font-family: Verdana;
     font-size: 20px;
+    color: gray;
+}
+
+#phone {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+
+footer p {
+    text-align: right;
     color: gray;
 }
